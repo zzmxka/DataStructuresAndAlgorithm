@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PukePai/brand.cs">
+    <Files>
+      <File FileName="PukePai/Program.cs" Line="17" Column="23" />
+      <File FileName="PukePai/User.cs" Line="65" Column="1" />
+      <File FileName="PukePai/brand.cs" Line="88" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PukePai" expanded="True">
+            <Node name="PukePai" expanded="True">
+              <Node name="brand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.PukePai FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

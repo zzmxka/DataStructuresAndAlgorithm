@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PukePai", "PukePai\PukePai.csproj", "{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{63C6B36B-6ECB-4C7B-ABF6-0C02E760326A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
