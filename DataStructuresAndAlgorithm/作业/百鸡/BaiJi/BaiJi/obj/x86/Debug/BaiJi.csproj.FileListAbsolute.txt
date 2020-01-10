@@ -1,6 +1,0 @@
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/bin/Debug/BaiJi.exe
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/bin/Debug/BaiJi.pdb
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/obj/x86/Debug/BaiJi.csprojAssemblyReference.cache
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/obj/x86/Debug/BaiJi.csproj.CoreCompileInputs.cache
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/obj/x86/Debug/BaiJi.exe
-/Users/boweiyu/Desktop/Xiaoji/BaiJi/BaiJi/obj/x86/Debug/BaiJi.pdb
